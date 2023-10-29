@@ -2,6 +2,8 @@
 
 Attempts to solve [IEEE Extreme Programming Competition](https://csacademy.com/ieeextreme17)
 
+[CS Academy Practice Portal](https://csacademy.com/contest/archive/scoreboard/)
+
 ## Problems Attempted
 
 -   [caesar_redux](https://csacademy.com/ieeextreme17/task/caesar_redux)
